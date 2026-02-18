@@ -60,6 +60,14 @@ Git • Linux • VS Code • Firebase
 * **Tech Stack:** HTML, CSS, React
 * Repo: https://github.com/Ashish241/squadsync
 
+  ---
+
+## 📚 Currently Learning
+- Cloud Infrastructure & Deployment
+- Docker and containerization fundamentals
+- Kubernetes fundamentals and container orchestration
+- CI/CD pipelines and DevOps workflows
+
 ---
 
 ## 📜 Certifications & Achievements
@@ -81,13 +89,14 @@ Expected Graduation: 2027
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ashish241&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://streak-stats.demolab.com/?user=Ashish241&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ashish241&show_icons=true&count_private=true&theme=tokyonight" height="170"/>
+<img src="https://streak-stats.demolab.com?user=Ashish241&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish241&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ashish241&layout=compact&theme=tokyonight"/>
 </p>
+
 
 ---
 
@@ -104,10 +113,11 @@ Expected Graduation: 2027
 🚀 **Actively seeking Cloud / DevOps / Frontend Internship Opportunities**
 Open to collaboration, real-world projects, and learning-driven environments.
 
-
+---
 
 ## 💡 A Little More About Me
 🚀 Future Cloud & DevOps Engineer in the making — learning, building, and deploying one project at a time.
+
 
 
 <!--
