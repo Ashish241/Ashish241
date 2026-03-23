@@ -1,10 +1,10 @@
 <!-- Animated Header -->
 
 <h1 align="center">Hi 👋, I'm Ashish Kumar Ishwar</h1>
-<h3 align="center">☁️ Cloud & DevOps Enthusiast | Frontend Developer | Open to Internship Opportunities</h3>
+<h3 align="center">☁️ Cloud & DevOps Enthusiast | Full-Stack Developer | Open to Internship Opportunities</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&center=true&vCenter=true&width=600&lines=Cloud+Computing+Enthusiast;DevOps+Learner;Frontend+Developer;Kubernetes+%26+Docker+Practitioner;Building+Scalable+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&center=true&vCenter=true&width=600&lines=Cloud+Computing+Enthusiast;DevOps+Learner;Full-Stack+Developer;Kubernetes+%26+Docker+Practitioner;Building+Scalable+Solutions" />
 </p>
 
 <p align="center">
@@ -177,13 +177,19 @@ Cloud and DevOps-focused B.Tech Computer Science student with hands-on experienc
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ashish241&show_icons=true&count_private=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ashish241&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true" height="170"/>
 <img src="https://streak-stats.demolab.com?user=Ashish241&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ashish241&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish241&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
