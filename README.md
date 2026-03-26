@@ -11,7 +11,6 @@
 <a href="https://linkedin.com/in/ashish-ishwar"><img src="https://img.shields.io/badge/LinkedIn-Ashish%20Ishwar-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="/cdn-cgi/l/email-protection#1c7d6f74756f747769712e282d2d5c7b717d7570327f7371"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
 <a href="https://port-folio-delta-wine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel"></a>
-<a href="https://github.com/Ashish241"><img src="https://img.shields.io/badge/GitHub-Ashish241-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
