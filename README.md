@@ -202,6 +202,6 @@ Cloud and DevOps-focused B.Tech Computer Science student with hands-on experienc
 
 🚀 **Actively seeking Cloud / DevOps / Frontend Internship Opportunities**
 
-📍 Based in Ranchi, Jharkhand, India | 📞 +91 8298053795 | 📧 <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="2b4a5843425843405e46191f1a1a6b4c464a424705484446">[email&#160;protected]</a>
+📍 Ranchi, Jharkhand, India | 📧 ashishkum2411@gamil.com
 
-Open to collaboration, real-world projects, and learni
+Open to collaboration, real-world projects and learning
