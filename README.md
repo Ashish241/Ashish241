@@ -1,17 +1,17 @@
-
 <!-- Animated Header -->
 
 <h1 align="center">Hi 👋, I'm Ashish Kumar Ishwar</h1>
-<h3 align="center">☁️ Cloud & DevOps Enthusiast | Full-Stack Development | Open to Internship Opportunities</h3>
+<h3 align="center">☁️ Cloud & DevOps Enthusiast | Frontend Developer | Open to Internship Opportunities</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&center=true&vCenter=true&width=600&lines=Cloud+Computing+Enthusiast;DevOps+Learner;Full-Stack+Developer;Kubernetes+%26+Docker+Practitioner;Building+Scalable+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&center=true&vCenter=true&width=600&lines=Cloud+Computing+Enthusiast;DevOps+Learner;Frontend+Developer;Kubernetes+%26+Docker+Practitioner;Building+Scalable+Solutions" />
 </p>
 
 <p align="center">
 <a href="https://linkedin.com/in/ashish-ishwar"><img src="https://img.shields.io/badge/LinkedIn-Ashish%20Ishwar-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:ashishkum2411@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+<a href="/cdn-cgi/l/email-protection#1c7d6f74756f747769712e282d2d5c7b717d7570327f7371"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
 <a href="https://port-folio-delta-wine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel"></a>
+<a href="https://github.com/Ashish241"><img src="https://img.shields.io/badge/GitHub-Ashish241-black?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
@@ -52,6 +52,7 @@ Cloud and DevOps-focused B.Tech Computer Science student with hands-on experienc
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
 **🌐 Web Development**
@@ -201,11 +202,6 @@ Cloud and DevOps-focused B.Tech Computer Science student with hands-on experienc
 
 🚀 **Actively seeking Cloud / DevOps / Frontend Internship Opportunities**
 
-📍 Based in Ranchi, Jharkhand, India | 📞 +91 8298053795 | 📧 ashishkum2411@gmail.com
+📍 Based in Ranchi, Jharkhand, India | 📞 +91 8298053795 | 📧 <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="2b4a5843425843405e46191f1a1a6b4c464a424705484446">[email&#160;protected]</a>
 
-Open to collaboration, real-world projects, and learning-driven environments.
-
----
-
-## 💡 A Little More About Me
-🚀 Future Cloud & DevOps Engineer in the making — learning, building, and deploying one project at a time.
+Open to collaboration, real-world projects, and learni
