@@ -95,10 +95,16 @@
 
 > An ML-powered predictive Kubernetes auto-scaler that dynamically adjusts Horizontal Pod Autoscalers to optimize costs while maintaining SLAs.
 
-- Implemented predictive traffic models via **PyTorch (LSTM)** and **Facebook Prophet** to anticipate cluster load up to 60 minutes ahead
-- Engineered a hybrid policy **REST API using FastAPI** to serve scaling metrics, manual overrides, and predictions
-- Built an observability dashboard in **React/Vite** to visualize cost savings and Prometheus metrics
-- Containerized and orchestrated the full stack using **Docker** and **Helm**
+- Designed a **predictive auto-scaling system** for Kubernetes using ML models
+- Integrated **LSTM + Prophet** for time-series forecasting of cluster load
+- Built a **policy engine** to override HPA decisions based on predictions
+- Exposed scaling logic via **FastAPI microservice**
+- Implemented observability using **Prometheus metrics**
+
+👉 Key Impact:
+- Reduced reactive scaling delays
+- Improved SLA stability under fluctuating workloads
+- Optimized resource utilization and cost
 
 **Tech Stack:**
 <p>
