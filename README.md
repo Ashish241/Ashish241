@@ -23,7 +23,7 @@
 
 ## ☁️ Cloud & DevOps Focus
 
-<img align="right" width="38%" src="https://raw.githubusercontent.com/Ashish241/Ashish241/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<img align="right" width="38%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 * 🐳 Hands-on experience with Docker and Kubernetes (Pods, Deployments, HPA)
 * 🔁 Learning CI/CD pipelines and DevOps workflows
