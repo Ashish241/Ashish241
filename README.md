@@ -1,10 +1,10 @@
 <!-- Animated Header -->
 
 <h1 align="center">Hi 👋, I'm Ashish Kumar Ishwar</h1>
-<h3 align="center">☁️ Cloud & DevOps Enthusiast | Frontend Developer | Open to Internship Opportunities</h3>
+<h3 align="center">☁️ Cloud & DevOps Enthusiast | 🌐 Full-Stack Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&center=true&vCenter=true&width=600&lines=Cloud+Computing+Enthusiast;DevOps+Learner;Frontend+Developer;Kubernetes+%26+Docker+Practitioner;Building+Scalable+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00d9ff&center=true&vCenter=true&width=600&lines=Cloud+Computing+Enthusiast;DevOps+Learner;Full-Stack+Developer;Kubernetes+%26+Docker+Practitioner;Building+Scalable+Solutions" />
 </p>
 
 <p align="center">
@@ -17,11 +17,13 @@
 
 ## 🚀 About Me
 
-Cloud and DevOps-focused B.Tech Computer Science student with hands-on experience in containerization, Kubernetes orchestration, and cloud-native application deployment. Strong foundation in Linux systems, networking basics, CI/CD principles, and backend development. Passionate about building scalable, fault-tolerant systems and optimizing deployment workflows. **Seeking a Cloud/DevOps Internship** to apply infrastructure automation and cloud engineering skills in real-world environments.
+3rd-year B. Tech Computer Science student at Amity University Jharkhand, with a strong passion for cloud-native systems and backend development. Hands-on experience with Kubernetes, Docker, and cloud platforms such as GCP, along with a solid foundation in Linux, networking, and CI/CD workflows. I am comfortable working across both backend and frontend stacks using technologies like Python, TypeScript, and Golang. 
 
 ---
 
 ## ☁️ Cloud & DevOps Focus
+
+<img align="right" width="38%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 * 🐳 Hands-on experience with Docker and Kubernetes (Pods, Deployments, HPA)
 * 🔁 Learning CI/CD pipelines and DevOps workflows
@@ -179,12 +181,11 @@ Cloud and DevOps-focused B.Tech Computer Science student with hands-on experienc
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ashish241&show_icons=true&count_private=true&theme=tokyonight" height="170"/>
-<img src="https://streak-stats.demolab.com?user=Ashish241&theme=tokyonight" height="170"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ashish241&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
+<img height="170em" src="https://streak-stats.demolab.com?user=Ashish241&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6e3c&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=8b949e"/>
 </p>
-
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ashish241&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ashish241&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
 </p>
 
 ---
@@ -192,7 +193,7 @@ Cloud and DevOps-focused B.Tech Computer Science student with hands-on experienc
 ## 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Ashish241&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=Ashish241&style=for-the-badge&color=a46bed">
 </p>
 
 ---
