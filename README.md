@@ -206,7 +206,7 @@
 
 ## 🤝 Internship Availability
 
-🚀 **Actively seeking Cloud / DevOps / Frontend Internship Opportunities**
+🚀 **Actively seeking Cloud / DevOps / Full-Stack Internship Opportunities**
 
 📍 Ranchi, Jharkhand, India | 📧 ashishkum2411@gamil.com
 
