@@ -21,6 +21,46 @@
 
 ---
 
+## 🌍 Open Source Contributions
+
+🚀 Contributor to Kubeflow (Website)
+
+---
+
+### 🔹 Kubeflow Website
+**PR:** https://github.com/kubeflow/website/pull/4326  
+
+- Implemented **dynamic GitHub star fetching** for project pages  
+- Enhanced frontend to display real-time repository metrics  
+- Successfully navigated code reviews and contribution guidelines  
+
+**Status:** ✅ Merged  
+**Impact:** Improved user experience with live repository insights
+
+---
+
+### 🔹 Kubeflow Pipelines
+**PR:** https://github.com/kubeflow/pipelines/pull/12989  
+
+- Added **pod lifecycle timeout configuration via environment variables**  
+- Integrated with **ConfigMap-based pipeline settings**  
+- Fixed CI failures and aligned with repository standards  
+
+**Status:** ⏳ In Review (LGTM + CI Passed)  
+**Impact:** Improves configurability and reliability of pipeline execution
+
+---
+
+### 🧠 Open Source Experience
+
+- Contributed to **production-grade systems in Kubeflow ecosystem**
+- Experience with **CI/CD debugging, code reviews, and large codebases**
+- Comfortable working in **async, maintainer-driven workflows**
+
+👉 Focus: **Real-world contributions over isolated projects**
+
+---
+
 ## ☁️ Cloud & DevOps Focus
 
 <img align="right" width="38%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
