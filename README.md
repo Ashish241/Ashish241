@@ -23,7 +23,7 @@
 
 ## 🌍 Open Source Contributions
 
-🚀 Contributor to Kubeflow (Website)
+🚀 Kubeflow Contributor
 
 ---
 
