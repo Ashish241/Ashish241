@@ -127,6 +127,8 @@ Improved the configurability and reliability of pipeline execution for productio
 
 **GitHub:** [github.com/Ashish241/KubASIE](https://github.com/Ashish241/KubASIE)
 
+<img align="right" src="https://github.com/Ashish241/KubASIE/blob/main/docs/images/KubASIE%20architecture%20with%20machine%20learning%20integration.png" alt="KubASIE Architecture — ML-Powered Kubernetes Auto-Scaler" width="40%"/>
+
 | What | How |
 |---|---|
 | Time-series forecasting | LSTM + Prophet models |
