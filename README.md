@@ -23,7 +23,7 @@
 
 <!-- Currently building banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡%20Currently%20Building-KubASIE%3A%20ML--Powered%20Kubernetes%20Auto--Scaler-1a1a2e?style=for-the-badge&labelColor=00d9ff&color=0d1117"/>
+  <img src="https://img.shields.io/badge/⚡%20Currently%20Building-KubASIE%3A%20ML--Powered%20Kubernetes%20Auto--Scaler-1a1a2e?style=for-the-badge&labelColor=008BFC&color=0d1117"/>
 </p>
 
 ---
