@@ -38,27 +38,9 @@ Right now I'm deep in the world of **predictive auto-scaling**, contributing to 
 
 - 🌍 Based in Ranchi, Jharkhand, India
 - 🔭 Building **KubASIE** — an ML-powered Kubernetes auto-scaler
-- 🤝 Active contributor to the **Kubeflow** ecosystem
+- 🤝 Active **Open-Soource** contributor
 - 💬 I enjoy discussing Kubernetes internals, autoscaling strategies, and ML-driven infrastructure
 - 📬 Reach me at **ashishkum2411@gmail.com**
-
----
-
-## 🌍 Open Source Contributions
-
-<img align="right" width="38%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
-
-### 🔹 Kubeflow Website
-**PR:** [#4326](https://github.com/kubeflow/website/pull/4326) · ✅ **Merged**
-
-Improved developer UX by surfacing live repository insights directly on the docs site — helping contributors navigate the ecosystem faster.
-
----
-
-### 🔹 Kubeflow Pipelines
-**PR:** [#12989](https://github.com/kubeflow/pipelines/pull/12989) · ⏳ **In Review** *(LGTM + CI Passed)*
-
-Improved the configurability and reliability of pipeline execution for production ML workflows — touching core runtime logic in a large, maintainer-driven codebase.
 
 ---
 
@@ -164,20 +146,6 @@ Fully responsive personal portfolio with reusable component architecture, GitHub
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-</p>
-
----
-
-### 🎮 SquadSync — Gaming Collaboration Platform
-
-**GitHub:** [github.com/Ashish241/squadsync](https://github.com/Ashish241/squadsync)
-
-Team matchmaking and collaboration platform for esports — designed with a modular, scalable frontend architecture.
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
 ---
