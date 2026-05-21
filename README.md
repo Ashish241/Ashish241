@@ -44,6 +44,9 @@ Right now I'm deep in the world of **predictive auto-scaling**, contributing to 
 
 ---
 
+
+<img align="right" width="38%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
+
 **What I've learned from open source:**
 - Debugging CI/CD failures in production-grade systems
 - Navigating large codebases and async maintainer workflows
