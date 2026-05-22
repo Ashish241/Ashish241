@@ -204,7 +204,7 @@ Open to real-world projects, collaborations, and learning from great teams.
 
 <p align="center">
   <i>"The best time to plant a tree was 20 years ago.<br>The best time to deploy a container was yesterday."</i><br><br>
-  <b>— probably Ashish</b>
+  <b>— Ashish</b>
 </p>
 
 <p align="center">
