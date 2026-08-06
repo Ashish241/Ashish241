@@ -32,7 +32,7 @@
 
 > *"I don't just want to use cloud infrastructure — I want to make it smarter."*
 
-I'm a **3rd-year B.Tech Computer Science student** at Amity University Jharkhand, obsessed with building systems that **think before they scale**. My work sits at the intersection of Kubernetes, ML, and backend engineering — I love taking hard infrastructure problems and solving them elegantly with code.
+I'm a **4th-year B.Tech Computer Science student** at Amity University Jharkhand, obsessed with building systems that **think before they scale**. My work sits at the intersection of Kubernetes, ML, and backend engineering — I love taking hard infrastructure problems and solving them elegantly with code.
 
 Right now I'm deep in the world of **predictive auto-scaling**, contributing to **Kubeflow** in production, and sharpening my backend skills across Python, TypeScript, and Go. I believe in shipping real things — not just learning in isolation.
 
